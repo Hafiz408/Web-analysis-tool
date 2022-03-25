@@ -1,0 +1,10 @@
+streamlit==1.1.0
+pandas
+numpy
+datetime 
+time
+collections 
+matplotlib.pyplot 
+urllib.request
+json
+seaborn 
